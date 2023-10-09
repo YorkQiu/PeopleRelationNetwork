@@ -2,7 +2,7 @@
 
 This is an official pytorch implementation of our paper: [Learning Relation Models to Detect Important People in Still Images](https://ieeexplore.ieee.org/document/9907874).
 
-![](https://pic.imgdb.cn/item/6523e820c458853aef5ed85c.jpg)
+![pipeline](.\figs\pipeline.jpg)
 
 People Relation Network (PRN) can accurately identify the important people by considering the relations among people and the relations between people and underlying events. Specifically, PRN consists of three modules (i.e., the feature representation, relation and classification modules) to extract visual features, model relations and estimate people’s importance, respectively. Experiments on the Multi-Scene Important People (MS) and NCAA Basketball Image (NCAA) datasets show that PRN achieves state-of-the-art performance and generalizes well when available data is limited.
 
@@ -88,11 +88,11 @@ Following the process you should successfully reproduce the exactly same results
 
 Specifically, for the MS dataset:
 
-![](https://pic.imgdb.cn/item/6523f795c458853aef62ec23.jpg)
+![](./figs/MS.jpg)
 
 And, for the NCAA dataset:
 
-![](https://pic.imgdb.cn/item/6523f834c458853aef6300f5.jpg)
+![](./figs/NCAA.jpg)
 
 ### Train your own model from scratch
 
