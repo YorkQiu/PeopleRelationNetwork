@@ -26,10 +26,14 @@ You can download the MS dataset and the NCAA dataset from this link using the co
 link：https://pan.baidu.com/s/1mjfELWkGABH_4_OpTebDaw 
 code：9dal
 
+You can also download from OneDrive:[MS.zip](https://1drv.ms/u/s!AnNGQhzLuFRXbStDYEXBE9QQNgA?e=4pRzIa)
+
 ### NCAA dataset
 
 link：https://pan.baidu.com/s/1cq8_upjGtoEsGzmg50i8Kg 
 code：8pv2
+
+You can also download from OneDrive:[NCAA.zip](https://1drv.ms/u/s!AnNGQhzLuFRXbB-Nn3pzatBf3g4?e=1Z1bRa)
 
 ### Data preparation
 
@@ -69,10 +73,14 @@ You can download the trained models from the links and the codes.
 link：https://pan.baidu.com/s/1py647zl9z8ANhGU3OuUPnA 
 code：6pn7
 
+You can also download from OneDrive: [bestMS.pkl](https://1drv.ms/u/s!AnNGQhzLuFRXbj0zAM0Z9DBNcGk?e=NhTnfP)
+
 ### NCAA
 
 link：https://pan.baidu.com/s/1JZqwbadg9h6D6yo4uXd_-Q 
 code：dqvl
+
+You can also download from OneDrive: [bestNCAA.pkl](https://1drv.ms/u/s!AnNGQhzLuFRXb23b8p0m-A5RxVA?e=Q7vDOO)
 
 You need to move the model trained on MS dataset to: /path/to/code/PeopleRelationNetwork/saves/MS/bestMS.pkl.
 
